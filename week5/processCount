@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ps -A | wc -l >> log.txt
+
